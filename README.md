@@ -3,6 +3,7 @@
 A quick-start project that helps you customize Syncfusion Blazor TreeView items easily using a template and the CssClass property in a WebAssembly app. You will learn how to use the context property and access the data fields showcasing the employee details with their images and designations.
 
 **Documentation**: https://blazor.syncfusion.com/documentation/treeview/template 
+
 **Online example**: https://blazor.syncfusion.com/demos/treeview/template
 
 ## Prerequisites
